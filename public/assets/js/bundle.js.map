@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;;AAAAA,KAAK,WAAC,OAAO,2CAAI,eAAe,CAAC,C","sources":["webpack://javascript-tooling-es6-modules/./src/index.js"],"sourcesContent":["alert(\"hello\" ?? \"Não informado\");\n"],"names":["alert"],"sourceRoot":""}
